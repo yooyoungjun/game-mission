@@ -1,0 +1,10 @@
+game\PolicyHandler.class
+game\MissionRepository.class
+game\Allocated.class
+game\AbstractEvent.class
+game\Mission.class
+game\MissionController.class
+game\MissionAchieved.class
+game\AbstractEvent$1.class
+game\config\kafka\KafkaProcessor.class
+game\MissionApplication.class
